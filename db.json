@@ -1,0 +1,36 @@
+{
+	"posts":[
+		{
+			"id": 1,
+			"title": "tran ngoc huy",
+			"body": "đang o hcm"
+
+		},
+		{
+			"id": 2,
+			"title": "nguyen quoc cuong",
+			"body": "đang o hcm",
+			"base64Image": ""
+
+		},
+		{
+			"id": 3,
+			"title": "dinh tuan minh",
+			"body": "đang o hcm",
+			"base64Image": ""
+
+		}
+		
+	],
+	"users": [
+		{
+			"name": "Huy",
+			"password": "huy123",
+			"Fullname": "tran ngoc huy"
+		}
+	
+	]
+	
+
+
+}
